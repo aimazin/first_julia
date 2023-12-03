@@ -26,7 +26,8 @@ a successfully executable notebook in Julia Data Science
 
 no real issues, it was a learning process
 
-## Licence
+## License
 
-I authorise this code for good will, only :)
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 
